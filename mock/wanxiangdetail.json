@@ -1,0 +1,85 @@
+{
+    "data": {
+        "wanxiang_speaker": {
+            "expect_wanxiang_videos": [],
+            "quanyi": {
+                "buying_tips": "<p>付费权益</p>\r\n",
+                "price": 288.0
+            },
+            "speaker": {
+                "video_count": 7,
+                "name": "黄晓丹",
+                "cover": "https://cdn.yixi.tv/almond/15740752332295.jpg?imageView2/1/w/250/h/290",
+                "intro": "江南大学人文学院副教授",
+                "wanxiang_intro": "这门古典诗词课将带你一览近百首熟悉又陌生的古诗词，了解七位身处命运洪流之中艰难抉择的诗人，以及他们所处的时代。",
+                "id": 799
+            },
+            "wanxiang": {
+                "course_info": "<p><img alt=\"\" src=\"https://cdn.yixi.tv/almond/ckeditor_1594863003.jpg?imageslim\" /></p>\r\n",
+                "is_single_buy": 0,
+                "other_course_info": "",
+                "show_pay": 2,
+                "pay_type": 1,
+                "name": "和诗人一起梦游",
+                "cover": "https://cdn.yixi.tv/almond/15940254043630.jpeg?imageView2/1/w/750/h/410",
+                "course_intro": "",
+                "video": "http://cdn.yixi.tv/1595315303170.mp4",
+                "material_status": 0,
+                "pay_status": 0
+            },
+            "wanxiang_videos": [
+                {
+                    "titlelanguage": "为什么说屈原是站在神话时代和理性时代门槛上的人？",
+                    "episode": 1,
+                    "id": 112,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951311995544.jpg?imageView2/1/w/280/h/160",
+                    "title": "屈原：时间的焦虑"
+                },
+                {
+                    "titlelanguage": "身为王子，为什么曹丕总能在极乐之时感受到鲜明的哀伤？",
+                    "episode": 2,
+                    "id": 114,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951313715546.jpg?imageView2/1/w/280/h/160",
+                    "title": "曹丕：欢乐深处的哀伤"
+                },
+                {
+                    "titlelanguage": "陶渊明真的是一个不关世事，悠游田园的诗人吗？",
+                    "episode": 3,
+                    "id": 113,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951309448167.jpg?imageView2/1/w/280/h/160",
+                    "title": "陶渊明：生死的辨证"
+                },
+                {
+                    "titlelanguage": "战乱，流离，妻离子散，杜甫的诗篇中为何还有振奋之意？",
+                    "episode": 4,
+                    "id": 115,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951309731366.jpg?imageView2/1/w/280/h/160",
+                    "title": "杜甫：生活的慰藉"
+                },
+                {
+                    "titlelanguage": "当欧阳修获得文名、仕途、友情的圆满成就，还会觉得虚无吗？",
+                    "episode": 5,
+                    "id": 116,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951328345247.jpg?imageView2/1/w/280/h/160",
+                    "title": "欧阳修：一生未损是天真"
+                },
+                {
+                    "titlelanguage": "《过零丁洋》之后，文天祥的下一个生命阶段是什么？",
+                    "episode": 6,
+                    "id": 117,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951312572686.jpg?imageView2/1/w/280/h/160",
+                    "title": "文天祥：忽悟大光明"
+                },
+                {
+                    "titlelanguage": "在明末的文人与名妓之间，为什么会产生超越世俗的爱情？",
+                    "episode": 7,
+                    "id": 118,
+                    "video_cover": "https://cdn.yixi.tv/almond/15951326794165.jpg?imageView2/1/w/280/h/160",
+                    "title": "吴梅村：大时代里的个人命运"
+                }
+            ]
+        }
+    },
+    "error_code": 0,
+    "error_msg": "查询成功"
+}

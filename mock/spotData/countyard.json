@@ -1,0 +1,122 @@
+{
+    "data": {
+        "items": [{
+            "status": 1,
+            "intro": "<p>古诗里的人，和他们的时代。</p>\r\n",
+            "year": 2020,
+            "date": "01/07",
+            "id": 110,
+            "icon": "https://cdn.yixi.tv/almond/icon_1571650544.png?imageView2/1/w/75/h/75",
+            "city": "北京",
+            "title": "黄晓丹《和诗人一起梦游》录制 | 一席大院儿007",
+            "cover": "https://cdn.yixi.tv/almond/15781195565107.JPG?imageView2/0/w/370/h/220",
+            "is_now_year": 1,
+            "screening_infos": [{
+                "end_time": "17:00",
+                "name": "1月7日 诗人 屈原 / 陶渊明",
+                "begin_time": "14:00"
+            }, {
+                "end_time": "17:00",
+                "name": "1月8日 诗人 欧阳修 / 吴梅村",
+                "begin_time": "14:00"
+            }],
+            "new_cover": "https://cdn.yixi.tv/almond/15781195565107.JPG?imageMogr2/crop/!8000x4480a0a20",
+            "type": 1
+        }, {
+            "status": 1,
+            "intro": "<p>每个人都应该懂的癌症知识。</p>\r\n",
+            "year": 2019,
+            "date": "11/19",
+            "id": 106,
+            "icon": "https://cdn.yixi.tv/almond/icon_1571650544.png?imageView2/1/w/75/h/75",
+            "city": "北京",
+            "title": "一堂万象课（李治中《癌症的真相》）的录制 | 一席大院儿005",
+            "cover": "https://cdn.yixi.tv/almond/15738182319878.jpg?imageView2/0/w/370/h/220",
+            "is_now_year": 0,
+            "screening_infos": [{
+                "end_time": "18:00",
+                "name": "第一次录制",
+                "begin_time": "14:00"
+            }],
+            "new_cover": "https://cdn.yixi.tv/almond/15738182319878.jpg?imageMogr2/crop/!3533x2267a249a0",
+            "type": 1
+        }, {
+            "status": 1,
+            "intro": "<p>那些关于童年的画面无影无形，却一直指引着我们成长的路。</p>\r\n",
+            "year": 2019,
+            "date": "10/20",
+            "id": 105,
+            "icon": "https://cdn.yixi.tv/almond/icon_1571650544.png?imageView2/1/w/75/h/75",
+            "city": "北京",
+            "title": "不存在的回忆 — 磊落音乐创作背后的故事 | 一席大院儿004",
+            "cover": "https://cdn.yixi.tv/almond/15712895359877.png?imageView2/0/w/370/h/220",
+            "is_now_year": 0,
+            "screening_infos": [{
+                "end_time": "21:00",
+                "name": "不存在的回忆",
+                "begin_time": "19:30"
+            }],
+            "new_cover": "https://cdn.yixi.tv/almond/15712895359877.png?imageMogr2/crop/!3894x1616a0a25",
+            "type": 1
+        }, {
+            "status": 1,
+            "intro": "<p>&ldquo;离开实践，咏春将面目全非。&rdquo;</p>\r\n",
+            "year": 2019,
+            "date": "10/13",
+            "id": 104,
+            "icon": "https://cdn.yixi.tv/almond/icon_1571650544.png?imageView2/1/w/75/h/75",
+            "city": "北京",
+            "title": "咏春的拳法在实践中的应用 | 一席大院儿003",
+            "cover": "https://cdn.yixi.tv/almond/15705418322696.jpg?imageView2/0/w/370/h/220",
+            "is_now_year": 0,
+            "screening_infos": [{
+                "end_time": "14:30",
+                "name": "咏春的拳法在实践中的应用",
+                "begin_time": "12:30"
+            }],
+            "new_cover": "https://cdn.yixi.tv/almond/15705418322696.jpg?imageView2/1/w/750/h/420",
+            "type": 1
+        }, {
+            "status": 1,
+            "intro": "<p>&ldquo;这些问题如果不讨论，我们10年前没有好的儿童绘本，20年后也不会有。&rdquo;</p>\r\n",
+            "year": 2019,
+            "date": "09/20",
+            "id": 103,
+            "icon": "https://cdn.yixi.tv/almond/icon_1571650544.png?imageView2/1/w/75/h/75",
+            "city": "北京",
+            "title": "一场超沉闷的绘本创作分享 | 一席大院儿002",
+            "cover": "https://cdn.yixi.tv/almond/15685524542941.jpg?imageView2/0/w/370/h/220",
+            "is_now_year": 0,
+            "screening_infos": [{
+                "end_time": "21:00",
+                "name": "一场超沉闷的绘本创作分享",
+                "begin_time": "19:00"
+            }],
+            "new_cover": "https://cdn.yixi.tv/almond/15685524542941.jpg?imageMogr2/crop/!725x302a9a21",
+            "type": 1
+        }, {
+            "status": 1,
+            "intro": "<p>你梦见过神秘出口吗？ 你梦见过春心荡漾吗？ 你梦见过外星人吗？ 你梦见过床吗？</p>\r\n",
+            "year": 2019,
+            "date": "06/06",
+            "id": 99,
+            "icon": "https://cdn.yixi.tv/almond/icon_1571650544.png?imageView2/1/w/75/h/75",
+            "city": "北京",
+            "title": "梦的研讨会 | 一席大院儿001",
+            "cover": "https://cdn.yixi.tv/almond/15595589366474.png?imageView2/0/w/370/h/220",
+            "is_now_year": 0,
+            "screening_infos": [{
+                "end_time": "21:30",
+                "name": "梦境研讨会",
+                "begin_time": "19:00"
+            }],
+            "new_cover": "https://cdn.yixi.tv/almond/15595589366474.png?imageView2/1/w/750/h/420",
+            "type": 1
+        }],
+        "total": 6,
+        "page": 1,
+        "page_size": 10
+    },
+    "error_code": 0,
+    "error_msg": "查询成功"
+}

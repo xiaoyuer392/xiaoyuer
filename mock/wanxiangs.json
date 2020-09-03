@@ -1,0 +1,296 @@
+{
+    "data": {
+        "expect_wanxiangs": [],
+        "wanxiangs": [
+            {
+                "comprehensive_price": "158",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "这门古典诗词课将带你一览近百首熟悉又陌生的古诗词，了解七位身处命运洪流之中艰难抉择的诗人，以及他们所处的时代。",
+                "id": 17,
+                "speaker_name": "黄晓丹",
+                "pay_type": 1,
+                "video_count": 7,
+                "name": "和诗人一起梦游",
+                "article_discount_price": "39",
+                "already_bought_article": 1,
+                "cover": "https://cdn.yixi.tv/almond/15953348316123.jpeg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "88",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1594863003.jpg?imageslim"
+                ],
+                "speaker_intro": "江南大学人文学院副教授",
+                "article_price": "49"
+            },
+            {
+                "comprehensive_price": "518",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "羊毛毡的杯垫如何制作？立体的羊毛毡摆件是如何做成的？在制作较大型的湿毡作品时该注意什么？",
+                "id": 16,
+                "speaker_name": "殷越",
+                "pay_type": 1,
+                "video_count": 14,
+                "name": "羊毛毡手工课",
+                "article_discount_price": "268",
+                "already_bought_article": 1,
+                "cover": "https://cdn.yixi.tv/almond/15903179369413.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "418",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1590392678.jpg?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1590392694.jpg?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1590392709.jpg?imageslim"
+                ],
+                "speaker_intro": "手作艺术家",
+                "article_price": "268"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "希望大家通过领略这三种截然不同的美感，能够体会到东方古老木结构建筑最深远的意境。",
+                "id": 6,
+                "speaker_name": "王南",
+                "pay_type": 1,
+                "video_count": 10,
+                "name": "建筑八讲",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15817786813535.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1561633174.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1561633192.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1561633211.png?imageslim"
+                ],
+                "speaker_intro": "清华大学建筑学院教师",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "我相当于是在祖师爷的家里跟大家讲建筑，所以我的心情是如何激动，大家可想而知。",
+                "id": 4,
+                "speaker_name": "王南",
+                "pay_type": 0,
+                "video_count": 7,
+                "name": "建筑史话",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15675861544896.png?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1567584122.png?imageslim"
+                ],
+                "speaker_intro": "清华大学建筑学院教师",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "这一次文学课，我们讲一讲文学的六个基本问题：成长、记忆、荒诞、追寻、幸福、诺言。",
+                "id": 7,
+                "speaker_name": "梁永安",
+                "pay_type": 1,
+                "video_count": 7,
+                "name": "在小径交岔的花园里",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15817787618551.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1567588341.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1565679283.png?imageslim"
+                ],
+                "speaker_intro": "复旦大学中文系文学写作专业硕士导师",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "让青春的爱情如信仰坚定。",
+                "id": 2,
+                "speaker_name": "梁永安",
+                "pay_type": 0,
+                "video_count": 8,
+                "name": "梁老师的爱情课",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15675989468798.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1567598586.png?imageslim"
+                ],
+                "speaker_intro": "复旦大学中文系文学写作专业硕士导师",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "很多人生活的意义并不明确，通过向自我提问，你可以最终找到自己所爱。",
+                "id": 5,
+                "speaker_name": "麦高登Gordon Mathews",
+                "pay_type": 1,
+                "video_count": 5,
+                "name": "我们为什么活着？",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15817788408535.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_many_1562577765_8984.jpg",
+                    "https://cdn.yixi.tv/almond/ckeditor_1561627929.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1561627941.png?imageslim"
+                ],
+                "speaker_intro": "香港中文大学人类学系主任、教授",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "唐际根在殷墟担任考古队长21年，他从甲骨文、人殉与人祭、战争与兵器等六个角度解读殷墟这部精彩的地书。",
+                "id": 3,
+                "speaker_name": "唐际根",
+                "pay_type": 0,
+                "video_count": 6,
+                "name": "洛阳铲下的商王朝",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15681046334436.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1568966075.png?imageslim"
+                ],
+                "speaker_intro": "社科院安阳考古站站长",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "王东老师将在这门课里介绍跨越了百年的流行音乐。从拉格泰姆到早期爵士，从民谣到摇滚，从迪斯科到说唱……",
+                "id": 13,
+                "speaker_name": "王东",
+                "pay_type": 1,
+                "video_count": 15,
+                "name": "流行音乐百年流变",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15692230541903.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1577344043.jpg?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1577342904.jpg?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1577342914.jpg?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1577342925.jpg?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1577342934.jpg?imageslim"
+                ],
+                "speaker_intro": "音乐节目DJ",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "在这堂艺术课里，邬老师将带我们欣赏上百幅著名画作，由此打开观看之门——从古至今，艺术家们在画些什么，又是画给谁看的？",
+                "id": 11,
+                "speaker_name": "邬建安",
+                "pay_type": 1,
+                "video_count": 4,
+                "name": "问眼记",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15622327576082.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1568964121.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1568964139.png?imageslim"
+                ],
+                "speaker_intro": "艺术家、中央美术学院实验艺术学院教授",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "2000多年的物理学史上产生了很多英雄人物，他们做出了哪些贡献？通过这门课程，我们理一理。",
+                "id": 8,
+                "speaker_name": "曹天元",
+                "pay_type": 1,
+                "video_count": 7,
+                "name": "物理之美",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15622325943561.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1563189089.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1563189281.png?imageslim",
+                    "https://cdn.yixi.tv/almond/ckeditor_1563189312.png?imageslim"
+                ],
+                "speaker_intro": "科普作家，著有《上帝掷骰子吗？》",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "龙老师挑选了自己研究过的16种植物，讲它们的个性和它们与人类千丝万缕的联系。",
+                "id": 10,
+                "speaker_name": "龙春林",
+                "pay_type": 1,
+                "video_count": 16,
+                "name": "花花草草",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15622326982503.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1570777764.png?imageslim"
+                ],
+                "speaker_intro": "植物学家",
+                "article_price": "0"
+            },
+            {
+                "comprehensive_price": "0",
+                "price": 0.0,
+                "is_single_buy": 0,
+                "already_bought": 0,
+                "wanxiang_intro": "结合实验以及生活的例子，把脑科学中最新的关于大脑是怎么运作的理论讲清楚。",
+                "id": 9,
+                "speaker_name": "姚博",
+                "pay_type": 1,
+                "video_count": 6,
+                "name": "大脑的本质",
+                "article_discount_price": "0",
+                "already_bought_article": 0,
+                "cover": "https://cdn.yixi.tv/almond/15622326568064.jpg?imageView2/1/w/250/h/290",
+                "comprehensive_discount_price": "0",
+                "preset_imgs": [
+                    "https://cdn.yixi.tv/almond/ckeditor_1567663489.png?imageslim"
+                ],
+                "speaker_intro": "曼彻斯特大学神经科学与实验心理学博导",
+                "article_price": "0"
+            }
+        ]
+    },
+    "error_code": 0,
+    "error_msg": "查询成功"
+}

@@ -1,0 +1,18 @@
+{
+    "/datalist": "/datalist",
+    "/datalist/zhiyalist": "/zhiyadata",
+    "/datalist/recordlist": "/recorddata",
+    "/datalist/yanjianglist": "/yanjiangdata",
+    
+    "/datalist/spot/speek" : "/speek",
+    "/datalist/spot/countyard": "/countyard",
+    "/datalist/spot/times": "/times",
+    "/datalist/index": "/index",
+    "/datalist/wanxiangs":"/wanxiangs",
+    "/datalist/areadata":"/areadata",
+    "/datalist/speek_details": "/speek_details",
+
+    "/datalist/detail" : "/detailData"
+   
+    
+}
