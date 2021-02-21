@@ -1,6 +1,7 @@
 # yiximz
 
 ## Project setup
+
 ```
 yarn install
 ```
